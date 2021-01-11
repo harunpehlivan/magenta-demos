@@ -4,3 +4,4 @@ googleapis_common_protos==1.2.0
 gcloud==0.18.1
 google-api-python-client==1.6.4
 oauth2client==3.0.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
